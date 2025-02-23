@@ -1,4 +1,4 @@
-![DevsForge: organization logo](https://raw.githubusercontent.com/devsforge/assets/refs/heads/main/dist/img/logo.svg)
+![DevsForge: organization logo](./logo.svg)
 
 # :wave: Welcome
 
