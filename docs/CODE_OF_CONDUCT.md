@@ -24,6 +24,13 @@ aggression against Ukraine in our community spaces.
 Our community is built on principles of peace, human rights, and mutual
 respect. Those who cannot uphold these principles are not welcome here.
 
+### Support Ukraine
+
+If you wish to support Ukraine and its people, consider contributing to
+humanitarian efforts:
+
+<!-- Add links to verified humanitarian organizations and resources here -->
+
 ## Our Pledge
 
 We, the members, contributors, and maintainers of DevsForge, pledge to make
