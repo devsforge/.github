@@ -7,6 +7,7 @@ owner: /orgs/devsforge/teams/community @community
 
 | Ver. | Date       | Author           | Change description           |
 |------|------------|------------------|------------------------------|
+| 0.3  | 2025-01-12 | Serhii Horodilov | Add link to support Ukraine  |
 | 0.2  | 2025-01-11 | Serhii Horodilov | Add pledge and stance on war |
 | 0.1  | 2025-01-10 | Serhii Horodilov | Initial draft                |
 
@@ -29,7 +30,9 @@ respect. Those who cannot uphold these principles are not welcome here.
 If you wish to support Ukraine and its people, consider contributing to
 humanitarian efforts:
 
-<!-- Add links to verified humanitarian organizations and resources here -->
+- https://savelife.in.ua/en
+- https://prytulafoundation.org/en
+- https://www.sternenkofund.org/en
 
 ## Our Pledge
 
@@ -50,14 +53,35 @@ transparent, and engaged community.
 
 ## Our Values
 
+[//]: # (TODO:)
+_TBD_
+
 ## Scope
+
+[//]: # (TODO:)
+_TBD_
 
 ## Expected Behavior
 
+[//]: # (TODO:)
+_TBD_
+
 ## Unacceptable Behavior
+
+[//]: # (TODO:)
+_TBD_
 
 ## Consequences
 
+[//]: # (TODO:)
+_TBD_
+
 ## Reporting
 
+[//]: # (TODO:)
+_TBD_
+
 ## Attribution
+
+[//]: # (TODO:)
+_TBD_
