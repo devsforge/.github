@@ -12,6 +12,7 @@ owner: /orgs/devsforge/teams/community @community
 
 | Ver. | Date       | Author           | Change description            |
 |------|------------|------------------|-------------------------------|
+| 0.7  | 2025-01-19 | Serhii Horodilov | Add reporting section         |
 | 0.6  | 2025-01-19 | Serhii Horodilov | Add attribution section       |
 | 0.5  | 2025-01-19 | Serhii Horodilov | Add behavior sections         |
 | 0.4  | 2025-01-19 | Serhii Horodilov | Add values and scope sections |
@@ -231,8 +232,67 @@ _TBD_
 
 ## Reporting
 
-[//]: # (TODO:)
-_TBD_
+If you experience or witness behavior that violates this Code of Conduct,
+please report it as soon as possible.
+
+**How to Report:**
+
+You can report violations by:
+
+- Contacting the community manager directly at: [todo: add email]
+- Opening a confidential issue in our dedicated reporting repository (if
+  available)
+
+**What to Include in Your Report:**
+
+To help us address the situation effectively, please include:
+
+- Your contact information (so we can follow up with you)
+- Names or usernames of people involved
+- Description of what happened, including specific behaviors
+- When and where the incident occurred
+- Any additional context or supporting information (screenshots, links, etc.)
+- Whether you've already taken any action
+- Any concerns about your safety or the safety of others
+
+If you're not comfortable providing all this information, we will still review
+your report.
+
+**What Happens After You Report:**
+
+1. **Acknowledgment**: You will receive confirmation that your report was
+   received within 48 hours
+2. **Review**: The community manager will review the report and may follow up
+   with you for additional information
+3. **Investigation**: We will investigate the matter by reviewing evidence and,
+   if appropriate, speaking with involved parties
+4. **Action**: Based on our findings, we will take appropriate action according
+   to the Consequences section
+5. **Follow-up**: We will inform you of the outcome, respecting privacy and
+   confidentiality where appropriate
+
+**Confidentiality:**
+
+- All reports will be handled with discretion and confidentiality
+- We will not share reporter identities without explicit permission
+- Information will only be shared with those who need to know to address the
+  situation
+- In cases where public safety is at risk, we may need to take public action,
+  but will do so without identifying reporters
+
+**Good Faith Reporting:**
+
+- We take all reports seriously and appreciate when community members speak up
+- Reports made in good faith will not result in retaliation, even if an
+  investigation finds no violation occurred
+- However, deliberately false reports made to harass others are themselves a
+  violation
+
+**Anonymous Reports:**
+
+While we prefer to have contact information to follow up, you may submit
+anonymous reports. Please note that our ability to investigate and respond may
+be limited without the ability to ask follow-up questions.
 
 ## Attribution
 
