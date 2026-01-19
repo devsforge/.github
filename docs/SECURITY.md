@@ -3,7 +3,6 @@ status: draft
 owner: /orgs/devsforge/teams/security @security
 ---
 
-
 # Security Policy
 
 ![status: draft](https://img.shields.io/badge/status-draft-red)
@@ -11,10 +10,10 @@ owner: /orgs/devsforge/teams/security @security
 <details>
 <summary>Document Changelog</summary>
 
-| Ver. | Date       | Author           | Change description            |
-|------|------------|------------------|-------------------------------|
-| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section    |
-| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft                 |
+| Ver. | Date       | Author           | Change description         |
+|------|------------|------------------|----------------------------|
+| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section |
+| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft              |
 
 </details>
 
