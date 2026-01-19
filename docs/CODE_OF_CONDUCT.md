@@ -12,6 +12,7 @@ owner: /orgs/devsforge/teams/community @community
 
 | Ver. | Date       | Author           | Change description            |
 |------|------------|------------------|-------------------------------|
+| 0.8  | 2025-01-19 | Serhii Horodilov | Add consequences section      |
 | 0.7  | 2025-01-19 | Serhii Horodilov | Add reporting section         |
 | 0.6  | 2025-01-19 | Serhii Horodilov | Add attribution section       |
 | 0.5  | 2025-01-19 | Serhii Horodilov | Add behavior sections         |
@@ -227,8 +228,54 @@ in our community:
 
 ## Consequences
 
-[//]: # (TODO:)
-_TBD_
+Community members who violate this Code of Conduct may face consequences
+determined by community maintainers and the community manager. The response
+will be proportionate to the violation and may include:
+
+**For Minor Violations:**
+
+- **Warning**: A private, written warning explaining the violation and expected
+  behavior change
+- **Temporary Interaction Limit**: Temporary restriction from interacting in
+  community spaces for a specified period
+
+**For Moderate Violations:**
+
+- **Temporary Ban**: Temporary suspension from all community participation for
+  a specified period (e.g., 30 days, 90 days)
+- **Required Acknowledgment**: Violator must acknowledge their behavior and
+  commit to change before being allowed to return
+
+**For Severe or Repeated Violations:**
+
+- **Permanent Ban**: Permanent removal from all community spaces and activities
+- **Public Statement**: In cases affecting community safety, a public statement
+  may be issued (without identifying the reporter)
+
+**Determining Consequences:**
+
+The severity of consequences will be based on:
+
+- The nature and severity of the violation
+- Impact on the community and individuals
+- Whether this is a first offense or part of a pattern
+- The violator's response and willingness to make amends
+- Context and circumstances
+
+**No Retaliation:**
+
+- Community members who report violations in good faith will not face
+  retaliation
+- Attempting to retaliate against someone who has reported a violation is
+  itself a violation and will result in consequences
+
+**Appeals:**
+
+- Individuals who believe they have been unfairly sanctioned may appeal the
+  decision
+- Appeals should be sent to the community manager with a clear explanation of
+  why the decision should be reconsidered
+- The community manager will review appeals and make a final determination
 
 ## Reporting
 
