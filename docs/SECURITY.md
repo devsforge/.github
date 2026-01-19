@@ -12,6 +12,7 @@ owner: /orgs/devsforge/teams/security @security
 
 | Ver. | Date       | Author           | Change description         |
 |------|------------|------------------|----------------------------|
+| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                |
 | 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section |
 | 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft              |
 

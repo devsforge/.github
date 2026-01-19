@@ -7,10 +7,11 @@ owner: /orgs/devsforge/teams/support @support
 
 ![status: draft](https://img.shields.io/badge/status-draft-red)
 
-| Ver. | Date       | Author           | Change description |
-|------|------------|------------------|--------------------|
-| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution |
-| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft      |
+| Ver. | Date       | Author           | Change description         |
+|------|------------|------------------|----------------------------|
+| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                |
+| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section |
+| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft              |
 
 Welcome to DevsForge! This document outlines how to get help, ask questions,
 and connect with our community.
