@@ -12,6 +12,7 @@ owner: /orgs/devsforge/teams/community @community
 
 | Ver. | Date       | Author           | Change description            |
 |------|------------|------------------|-------------------------------|
+| 0.6  | 2025-01-19 | Serhii Horodilov | Add attribution section       |
 | 0.5  | 2025-01-19 | Serhii Horodilov | Add behavior sections         |
 | 0.4  | 2025-01-19 | Serhii Horodilov | Add values and scope sections |
 | 0.3  | 2025-01-12 | Serhii Horodilov | Add link to support Ukraine   |
@@ -235,5 +236,15 @@ _TBD_
 
 ## Attribution
 
-[//]: # (TODO:)
-_TBD_
+This Code of Conduct is inspired by community best practices and open source
+community standards.
+
+**License:**
+
+This Code of Conduct is licensed under
+the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
+
+You are free to adapt and use this Code of Conduct for your own community, with
+attribution to DevsForge.
+
+[CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
