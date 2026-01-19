@@ -281,8 +281,6 @@ please report it as soon as possible.
 You can report violations by:
 
 - Contacting the community manager directly at: [todo: add email]
-- Opening a confidential issue in our dedicated reporting repository (if
-  available)
 
 **What to Include in Your Report:**
 
