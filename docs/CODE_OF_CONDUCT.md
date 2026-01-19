@@ -5,11 +5,18 @@ owner: /orgs/devsforge/teams/community @community
 
 # Code of Conduct
 
+![doc_status:draft](https://img.shields.io/badge/document_status-draft-red)
+
+<details>
+<summary>Document Changelog</summary>
+
 | Ver. | Date       | Author           | Change description           |
 |------|------------|------------------|------------------------------|
 | 0.3  | 2025-01-12 | Serhii Horodilov | Add link to support Ukraine  |
 | 0.2  | 2025-01-11 | Serhii Horodilov | Add pledge and stance on war |
 | 0.1  | 2025-01-10 | Serhii Horodilov | Initial draft                |
+
+</details>
 
 ## Our Stance on the War in :ukraine:Ukraine
 
