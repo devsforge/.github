@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+    - name: ":gb: Security Vulnerability / :ukraine: Вразливість безпеки"
+      url: https://github.com/devsforge/.github/security/advisories/new
+      about: ":gb: Report a security vulnerability privately / :ukraine: Повідомити про вразливість безпеки конфіденційно"
+    - name: ":gb: Community Discussion / :ukraine: Обговорення в спільноті"
+      url: https://github.com/orgs/devsforge/discussions
+      about: ":gb: Ask questions, share ideas, or discuss with the community / :ukraine: Задавайте питання, діліться ідеями або обговорюйте зі спільнотою"

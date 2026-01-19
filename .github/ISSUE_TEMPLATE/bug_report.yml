@@ -1,0 +1,93 @@
+name: ":gb: Bug Report / :ukraine: Звіт про помилку"
+description: ":gb: Report bugs, errors, or unexpected behavior / :ukraine: Повідомити про помилки, збої або неочікувану поведінку"
+title: "[Bug]: "
+labels: ["bug"]
+body:
+    - type: markdown
+      attributes:
+          value: |
+              ## :gb: Bug Report / :ukraine: Звіт про помилку
+
+              :gb: Thank you for taking the time to report a bug! Please fill out the form below to help us understand and fix the issue.
+
+              :ukraine: Дякуємо, що знайшли час повідомити про помилку! Будь ласка, заповніть форму нижче, щоб допомогти нам зрозуміти та виправити проблему.
+
+    - type: textarea
+      id: description
+      attributes:
+          label: ":gb: Description / :ukraine: Опис"
+          description: ":gb: A clear and concise description of what the bug is / :ukraine: Чіткий та стислий опис помилки"
+          placeholder: ":gb: Describe the bug... / :ukraine: Опишіть помилку..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: steps-to-reproduce
+      attributes:
+          label: ":gb: Steps to Reproduce / :ukraine: Кроки для відтворення"
+          description: ":gb: Steps to reproduce the behavior / :ukraine: Кроки для відтворення поведінки"
+          placeholder: |
+              :gb: / :ukraine:
+              1. Go to '...'
+              2. Click on '...'
+              3. Scroll down to '...'
+              4. See error
+          value: |
+              1. 
+              2. 
+              3. 
+      validations:
+          required: true
+
+    - type: textarea
+      id: expected-behavior
+      attributes:
+          label: ":gb: Expected Behavior / :ukraine: Очікувана поведінка"
+          description: ":gb: What you expected to happen / :ukraine: Що ви очікували, що станеться"
+          placeholder: ":gb: What should happen... / :ukraine: Що має статися..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: actual-behavior
+      attributes:
+          label: ":gb: Actual Behavior / :ukraine: Фактична поведінка"
+          description: ":gb: What actually happened / :ukraine: Що насправді сталося"
+          placeholder: ":gb: What actually happens... / :ukraine: Що насправді відбувається..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: environment
+      attributes:
+          label: ":gb: Environment / Context / :ukraine: Середовище / Контекст"
+          description: ":gb: Information about your environment (OS, browser, version, etc.) / :ukraine: Інформація про ваше середовище (ОС, браузер, версія тощо)"
+          placeholder: |
+              :gb: / :ukraine:
+              - OS: [e.g., Windows 11, macOS 14, Ubuntu 22.04]
+              - Browser: [e.g., Chrome 120, Firefox 121]
+              - Version: [e.g., 1.2.3]
+          value: |
+              - OS: 
+              - Browser: 
+              - Version: 
+      validations:
+          required: false
+
+    - type: textarea
+      id: additional-info
+      attributes:
+          label: ":gb: Additional Information / :ukraine: Додаткова інформація"
+          description: ":gb: Any other context, screenshots, or information / :ukraine: Будь-який інший контекст, скріншоти або інформація"
+          placeholder: ":gb: Add any other context... / :ukraine: Додайте будь-який інший контекст..."
+      validations:
+          required: false
+
+    - type: checkboxes
+      id: code-of-conduct
+      attributes:
+          label: ":gb: Code of Conduct / :ukraine: Кодекс поведінки"
+          description: ":gb: By submitting this issue, you agree to follow our Code of Conduct / :ukraine: Надсилаючи цю проблему, ви погоджуєтеся дотримуватися нашого Кодексу поведінки"
+          options:
+              - label: ":gb: I have read and agree to follow the [Code of Conduct](https://github.com/devsforge/.github/blob/main/docs/CODE_OF_CONDUCT.md) / :ukraine: Я прочитав і погоджуюся дотримуватися [Кодексу поведінки](https://github.com/devsforge/.github/blob/main/docs/CODE_OF_CONDUCT.md)"
+                required: true

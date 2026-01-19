@@ -1,0 +1,58 @@
+name: ":gb: Documentation Improvement / :ukraine: Покращення документації"
+description: ":gb: Report documentation issues or suggest improvements / :ukraine: Повідомити про проблеми з документацією або запропонувати покращення"
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+    - type: markdown
+      attributes:
+          value: |
+              ## :gb: Documentation Improvement / :ukraine: Покращення документації
+
+              :gb: Thank you for helping us improve our documentation!
+
+              :ukraine: Дякуємо, що допомагаєте нам покращити нашу документацію!
+
+    - type: input
+      id: location
+      attributes:
+          label: ":gb: Location / Page Affected / :ukraine: Розташування / Сторінка, що постраждала"
+          description: ":gb: Which page or document needs improvement? / :ukraine: Яка сторінка чи документ потребує покращення?"
+          placeholder: ":gb: e.g., README.md, docs/getting-started.md, API Reference / :ukraine: напр., README.md, docs/getting-started.md, API Reference"
+      validations:
+          required: true
+
+    - type: textarea
+      id: description
+      attributes:
+          label: ":gb: Description of Issue or Improvement / :ukraine: Опис проблеми або покращення"
+          description: ":gb: What's wrong or what could be improved? / :ukraine: Що не так або що можна покращити?"
+          placeholder: ":gb: The documentation is unclear about... / :ukraine: Документація незрозуміла щодо..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: suggested-changes
+      attributes:
+          label: ":gb: Suggested Changes / :ukraine: Запропоновані зміни"
+          description: ":gb: How should the documentation be improved? / :ukraine: Як слід покращити документацію?"
+          placeholder: ":gb: I suggest adding/changing... / :ukraine: Я пропоную додати/змінити..."
+      validations:
+          required: false
+
+    - type: textarea
+      id: additional-context
+      attributes:
+          label: ":gb: Additional Context / :ukraine: Додатковий контекст"
+          description: ":gb: Any other context, examples, or screenshots / :ukraine: Будь-який інший контекст, приклади або скріншоти"
+          placeholder: ":gb: Add any other context... / :ukraine: Додайте будь-який інший контекст..."
+      validations:
+          required: false
+
+    - type: checkboxes
+      id: code-of-conduct
+      attributes:
+          label: ":gb: Code of Conduct / :ukraine: Кодекс поведінки"
+          description: ":gb: By submitting this issue, you agree to follow our Code of Conduct / :ukraine: Надсилаючи цю проблему, ви погоджуєтеся дотримуватися нашого Кодексу поведінки"
+          options:
+              - label: ":gb: I have read and agree to follow the [Code of Conduct](https://github.com/devsforge/.github/blob/main/docs/CODE_OF_CONDUCT.md) / :ukraine: Я прочитав і погоджуюся дотримуватися [Кодексу поведінки](https://github.com/devsforge/.github/blob/main/docs/CODE_OF_CONDUCT.md)"
+                required: true

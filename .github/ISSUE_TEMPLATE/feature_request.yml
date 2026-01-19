@@ -1,0 +1,58 @@
+name: ":gb: Feature Request / :ukraine: Запит функції"
+description: ":gb: Propose new features or enhancements / :ukraine: Запропонувати нові функції або покращення"
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+    - type: markdown
+      attributes:
+          value: |
+              ## :gb: Feature Request / :ukraine: Запит функції
+
+              :gb: Thank you for suggesting a new feature! Please describe your idea below.
+
+              :ukraine: Дякуємо за пропозицію нової функції! Будь ласка, опишіть свою ідею нижче.
+
+    - type: textarea
+      id: problem-motivation
+      attributes:
+          label: ":gb: Problem or Motivation / :ukraine: Проблема або мотивація"
+          description: ":gb: What problem does this feature solve? What's the motivation? / :ukraine: Яку проблему вирішує ця функція? Яка мотивація?"
+          placeholder: ":gb: I'm frustrated when... / :ukraine: Мене розчаровує, коли..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: proposed-solution
+      attributes:
+          label: ":gb: Proposed Solution / :ukraine: Запропоноване рішення"
+          description: ":gb: Describe your proposed solution or feature / :ukraine: Опишіть ваше запропоноване рішення або функцію"
+          placeholder: ":gb: I would like to see... / :ukraine: Я хотів би побачити..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: alternatives
+      attributes:
+          label: ":gb: Alternatives Considered / :ukraine: Розглянуті альтернативи"
+          description: ":gb: Have you considered any alternative solutions or workarounds? / :ukraine: Чи розглядали ви якісь альтернативні рішення або обхідні шляхи?"
+          placeholder: ":gb: I've also thought about... / :ukraine: Я також думав про..."
+      validations:
+          required: false
+
+    - type: textarea
+      id: additional-context
+      attributes:
+          label: ":gb: Additional Context / :ukraine: Додатковий контекст"
+          description: ":gb: Any other context, mockups, examples, or references / :ukraine: Будь-який інший контекст, макети, приклади або посилання"
+          placeholder: ":gb: Add any other context... / :ukraine: Додайте будь-який інший контекст..."
+      validations:
+          required: false
+
+    - type: checkboxes
+      id: code-of-conduct
+      attributes:
+          label: ":gb: Code of Conduct / :ukraine: Кодекс поведінки"
+          description: ":gb: By submitting this issue, you agree to follow our Code of Conduct / :ukraine: Надсилаючи цю проблему, ви погоджуєтеся дотримуватися нашого Кодексу поведінки"
+          options:
+              - label: ":gb: I have read and agree to follow the [Code of Conduct](https://github.com/devsforge/.github/blob/main/docs/CODE_OF_CONDUCT.md) / :ukraine: Я прочитав і погоджуюся дотримуватися [Кодексу поведінки](https://github.com/devsforge/.github/blob/main/docs/CODE_OF_CONDUCT.md)"
+                required: true
