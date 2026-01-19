@@ -10,16 +10,10 @@ owner: /orgs/devsforge/teams/community @community
 <details>
 <summary>Document Changelog</summary>
 
-| Ver. | Date       | Author           | Change description            |
-|------|------------|------------------|-------------------------------|
-| 0.8  | 2025-01-19 | Serhii Horodilov | Add consequences section      |
-| 0.7  | 2025-01-19 | Serhii Horodilov | Add reporting section         |
-| 0.6  | 2025-01-19 | Serhii Horodilov | Add attribution section       |
-| 0.5  | 2025-01-19 | Serhii Horodilov | Add behavior sections         |
-| 0.4  | 2025-01-19 | Serhii Horodilov | Add values and scope sections |
-| 0.3  | 2025-01-12 | Serhii Horodilov | Add link to support Ukraine   |
-| 0.2  | 2025-01-11 | Serhii Horodilov | Add pledge and stance on war  |
-| 0.1  | 2025-01-10 | Serhii Horodilov | Initial draft                 |
+| Ver. | Date       | Author           | Change description |
+|------|------------|------------------|--------------------|
+| 0.9  | 2025-01-19 | Serhii Horodilov | Final draft        |
+| 0.1  | 2025-01-10 | Serhii Horodilov | Initial draft      |
 
 </details>
 
