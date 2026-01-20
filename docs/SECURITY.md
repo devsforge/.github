@@ -3,9 +3,13 @@ status: draft
 owner: /orgs/devsforge/teams/security @security
 ---
 
+[draft]: https://img.shields.io/badge/document_status-draft-orange
+[ready]: https://img.shields.io/badge/document_status-ready-cyan
+[final]: https://img.shields.io/badge/document_status-final-blue
+
 # Security Policy
 
-![status: draft](https://img.shields.io/badge/status-draft-red)
+![document status][draft]
 
 <details>
 <summary>Document Changelog</summary>
@@ -130,17 +134,19 @@ introduce:
 Security reports and incidents are handled by our dedicated security team. For
 general security inquiries, please use the channels listed above.
 
+---
+
 ## Attribution
 
-This Security Policy is inspired by community best practices and open source
-security standards.
+This Support document is inspired by community best practices and open source
+community standards.
 
 **License:**
 
-This Security Policy is licensed under
-the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
+This Support document is licensed under
+[Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
-You are free to adapt and use this Security Policy for your own community, with
+You are free to adapt and use this document for your own community, with
 attribution to OpenRoost.
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
