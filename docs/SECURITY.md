@@ -82,12 +82,12 @@ discovery (unless you prefer to remain anonymous).
 
 ## Scope
 
-This security policy applies to all repositories within the DevsForge
+This security policy applies to all repositories within the OpenRoost
 organization, including both public and private repositories.
 
 ### In Scope
 
-- Security vulnerabilities in DevsForge-maintained code
+- Security vulnerabilities in OpenRoost-maintained code
 - Configuration issues that could lead to security exposure
 - Authentication and authorization flaws
 - Data exposure risks
@@ -141,6 +141,6 @@ This Security Policy is licensed under
 the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
 You are free to adapt and use this Security Policy for your own community, with
-attribution to DevsForge.
+attribution to OpenRoost.
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/

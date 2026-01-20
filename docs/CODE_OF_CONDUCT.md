@@ -19,7 +19,7 @@ owner: /orgs/devsforge/teams/community @community
 
 ## Our Stance on the War in :ukraine:Ukraine
 
-DevsForge stands with Ukraine and the Ukrainian people in the ongoing war of
+OpenRoost stands with Ukraine and the Ukrainian people in the ongoing war of
 aggression by the Russian Federation. We condemn this illegal invasion and the
 humanitarian crisis it has caused.
 
@@ -42,7 +42,7 @@ humanitarian efforts:
 
 ## Our Pledge
 
-We, the members, contributors, and maintainers of DevsForge, pledge to make
+We, the members, contributors, and maintainers of OpenRoost, pledge to make
 participation in our community a welcoming, respectful, and harassment-free
 experience for everyone, regardless of age, body size, visible or invisible
 disability, ethnicity, sex characteristics, gender identity and expression,
@@ -59,7 +59,7 @@ transparent, and engaged community.
 
 ## Our Values
 
-At DevsForge, our community is guided by these core values:
+At OpenRoost, our community is guided by these core values:
 
 **:earth_africa: Inclusivity**  
 We believe in creating opportunities for everyone. Our community welcomes
@@ -95,15 +95,15 @@ work while remaining humble and open to improvement.
 
 ## Scope
 
-This Code of Conduct applies to all DevsForge community spaces, including but
+This Code of Conduct applies to all OpenRoost community spaces, including but
 not limited to:
 
 - GitHub repositories (issues, pull requests, discussions, code reviews)
 - Official communication channels (if applicable: Discord, Slack, mailing
   lists, forums)
 - Community events (online and in-person meetups, conferences, workshops)
-- Social media interactions where you represent DevsForge
-- Any other spaces where you act as a representative of the DevsForge community
+- Social media interactions where you represent OpenRoost
+- Any other spaces where you act as a representative of the OpenRoost community
 
 This Code of Conduct also applies when an individual is officially representing
 the community in public spaces. Examples of representing our community include
@@ -116,7 +116,7 @@ or acting as an appointed representative at an online or offline event.
 - Contributors
 - Maintainers
 - Partners
-- Anyone interacting with DevsForge projects and community spaces
+- Anyone interacting with OpenRoost projects and community spaces
 
 This Code of Conduct applies equally to all community members, regardless of
 their level of contribution or standing within the community.
@@ -166,7 +166,7 @@ We encourage all community members to:
 - Promote inclusivity and accessibility in everything you do
 - Respect our stance on Ukraine and human rights
 - Contribute to a positive, transparent community environment
-- Help make DevsForge a welcoming place for everyone
+- Help make OpenRoost a welcoming place for everyone
 
 ## Unacceptable Behavior
 
@@ -216,7 +216,7 @@ in our community:
 
 **Scope of Enforcement**
 
-- These standards apply to all community spaces and when representing DevsForge
+- These standards apply to all community spaces and when representing OpenRoost
 - Violations may result in consequences even if they occur in public spaces
   outside our direct control, if they negatively impact community safety
 
@@ -344,6 +344,6 @@ This Code of Conduct is licensed under
 the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
 You are free to adapt and use this Code of Conduct for your own community, with
-attribution to DevsForge.
+attribution to OpenRoost.
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
