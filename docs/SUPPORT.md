@@ -3,17 +3,21 @@ status: draft
 owner: /orgs/devsforge/teams/support @support
 ---
 
+[draft]: https://img.shields.io/badge/document_status-draft-orange
+[final]: https://img.shields.io/badge/document_status-final-blue
+
 # Support
 
-![status: draft](https://img.shields.io/badge/status-draft-red)
+![document status][draft]
 
-| Ver. | Date       | Author           | Change description         |
-|------|------------|------------------|----------------------------|
-| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                |
-| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section |
-| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft              |
+| ver. | Date       | Author           | Change description            |
+|------|------------|------------------|-------------------------------|
+| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                   |
+| 0.3  | 2026-01-20 | Serhii Horodilov | Utilize community health docs |
+| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section    |
+| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft                 |
 
-Welcome to DevsForge! This document outlines how to get help, ask questions,
+Welcome to OpenRoost! This document outlines how to get help, ask questions,
 and connect with our community.
 
 We communicate in both English and Ukrainian.
@@ -31,7 +35,7 @@ For general questions, ideas, and community conversations, please use
 
 This is our primary support channel and the best place to:
 
-- Ask questions about DevsForge projects
+- Ask questions about OpenRoost projects
 - Share ideas and suggestions
 - Connect with other community members
 - Seek guidance on developer growth and learning
@@ -60,7 +64,7 @@ Instead, follow the process outlined in our [Security Policy](SECURITY.md).
 
 ### Technical Support
 
-For technical questions related to DevsForge projects, tools, and
+For technical questions related to OpenRoost projects, tools, and
 implementations, our support team is here to help.
 
 Responsible team: @support
@@ -77,8 +81,8 @@ Responsible team: @community
 While we want to be as helpful as possible, some topics fall outside our
 support scope:
 
-- Support for third-party tools or services not maintained by DevsForge
-- General programming questions unrelated to DevsForge projects
+- Support for third-party tools or services not maintained by OpenRoost
+- General programming questions unrelated to OpenRoost projects
 - Requests that violate our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Resources
@@ -86,6 +90,8 @@ support scope:
 [//]: # (TODO: Add self-service resources such as documentation, FAQs, guides)
 
 _Coming soon._
+
+---
 
 ## Attribution
 
@@ -95,9 +101,9 @@ community standards.
 **License:**
 
 This Support document is licensed under
-the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
+[Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
 You are free to adapt and use this document for your own community, with
-attribution to DevsForge.
+attribution to OpenRoost.
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
