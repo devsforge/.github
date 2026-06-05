@@ -1,0 +1,9 @@
+# Default owners for everything in the repo.
+*                   @openroost/maintainers
+
+# Community health files are maintained by the @community team
+CODE_OF_CONDUCT.md  @openroost/community
+SUPPORT.md          @openroost/community
+
+SECURITY.md         @openroost/security @openroost/community
+
