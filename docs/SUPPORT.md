@@ -3,15 +3,19 @@ status: draft
 owner: /orgs/devsforge/teams/support @support
 ---
 
+[draft]: https://img.shields.io/badge/document_status-draft-orange
+[final]: https://img.shields.io/badge/document_status-final-blue
+
 # Support
 
-![status: draft](https://img.shields.io/badge/status-draft-red)
+![document status][draft]
 
-| Ver. | Date       | Author           | Change description         |
-|------|------------|------------------|----------------------------|
-| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                |
-| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section |
-| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft              |
+| ver. | Date       | Author           | Change description            |
+|------|------------|------------------|-------------------------------|
+| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                   |
+| 0.3  | 2026-01-20 | Serhii Horodilov | Utilize community health docs |
+| 0.2  | 2025-01-19 | Serhii Horodilov | Update Attribution section    |
+| 0.1  | 2025-01-19 | Serhii Horodilov | Initial draft                 |
 
 Welcome to OpenRoost! This document outlines how to get help, ask questions,
 and connect with our community.
@@ -87,6 +91,8 @@ support scope:
 
 _Coming soon._
 
+---
+
 ## Attribution
 
 This Support document is inspired by community best practices and open source
@@ -95,7 +101,7 @@ community standards.
 **License:**
 
 This Support document is licensed under
-the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
+[Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
 You are free to adapt and use this document for your own community, with
 attribution to OpenRoost.

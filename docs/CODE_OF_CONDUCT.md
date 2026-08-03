@@ -3,17 +3,21 @@ status: draft
 owner: /orgs/devsforge/teams/community @community
 ---
 
+[draft]: https://img.shields.io/badge/document_status-draft-orange
+[final]: https://img.shields.io/badge/document_status-final-blue
+
 # Code of Conduct
 
-![doc_status:draft](https://img.shields.io/badge/document_status-draft-red)
+![document status][draft]
 
 <details>
 <summary>Document Changelog</summary>
 
-| Ver. | Date       | Author           | Change description |
-|------|------------|------------------|--------------------|
-| 0.9  | 2025-01-19 | Serhii Horodilov | Final draft        |
-| 0.1  | 2025-01-10 | Serhii Horodilov | Initial draft      |
+| ver. | Date       | Author           | Change description            |
+|------|------------|------------------|-------------------------------|
+| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                   |
+| 0.2  | 2026-01-20 | Serhii Horodilov | Utilize community health docs |
+| 0.1  | 2025-01-10 | Serhii Horodilov | Initial draft                 |
 
 </details>
 
@@ -333,17 +337,19 @@ While we prefer to have contact information to follow up, you may submit
 anonymous reports. Please note that our ability to investigate and respond may
 be limited without the ability to ask follow-up questions.
 
+---
+
 ## Attribution
 
-This Code of Conduct is inspired by community best practices and open source
+This Support document is inspired by community best practices and open source
 community standards.
 
 **License:**
 
-This Code of Conduct is licensed under
-the [Creative Commons Attribution 4.0 International License][CC-BY-4.0].
+This Support document is licensed under
+[Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
-You are free to adapt and use this Code of Conduct for your own community, with
+You are free to adapt and use this document for your own community, with
 attribution to OpenRoost.
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/

@@ -3,16 +3,21 @@ status: draft
 owner: /orgs/devsforge/teams/maintainers @maintainers
 ---
 
+[draft]: https://img.shields.io/badge/document_status-draft-orange
+[final]: https://img.shields.io/badge/document_status-final-blue
+
 # Contributing Guide
 
-![status: draft](https://img.shields.io/badge/status-draft-red)
+![document status][draft]
 
 <details>
 <summary>Document Changelog</summary>
 
-| Ver. | Date       | Author           | Change description |
-|------|------------|------------------|--------------------|
-| 0.1  | 2026-01-20 | Serhii Horodilov | Initial draft      |
+| ver. | Date       | Author           | Change description            |
+|------|------------|------------------|-------------------------------|
+| 0.9  | 2025-01-20 | Serhii Horodilov | Final draft                   |
+| 0.2  | 2026-01-20 | Serhii Horodilov | Utilize community health docs |
+| 0.1  | 2026-01-20 | Serhii Horodilov | Initial draft                 |
 
 </details>
 
@@ -116,17 +121,19 @@ journey:
 We value and recognize all contributions. Contributors will be credited in the
 repository's README or a dedicated CONTRIBUTORS file.
 
+---
+
 ## Attribution
 
-This Contributing Guide is inspired by community best practices and open source
+This Support document is inspired by community best practices and open source
 community standards.
 
 **License:**
 
-This Contributing Guide is licensed under the [Creative Commons Attribution 4.0
-International License][CC-BY-4.0].
+This Support document is licensed under
+[Creative Commons Attribution 4.0 International License][CC-BY-4.0].
 
-You are free to adapt and use this guide for your own community, with
+You are free to adapt and use this document for your own community, with
 attribution to OpenRoost.
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
